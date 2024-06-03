@@ -1,7 +1,8 @@
 # Hola, mi nombre es Pedro Omar desarrollador de iOS 👋
 
 ## 🔂 Redes Sociales
-[Twitter](https:www.x.com/pedroomar25) [Instagram](https://www.instagram.com/pedroomar_98)
+- [Twitter](https:www.x.com/pedroomar25) 
+- [Instagram](https://www.instagram.com/pedroomar_98)
 
 ## 👤 Acerca de mí
 - Actualmente estoy aprendiendo Swift lenguaje de programción de Apple para desarrollo de iOS, iPadOS, MacOS, tvOS, WatchOS y recientemente VisionOS
