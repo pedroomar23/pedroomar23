@@ -11,6 +11,6 @@
 - Estoy dispuesto a seguir aprendiendo cada día cosas nuevas
 
 ## 👨‍💻 Lenguajes
-[Swift](https://wwww.swift.org)
+- [Swift](https://wwww.swift.org)
 
 
