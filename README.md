@@ -1,7 +1,7 @@
 # Hola, mi nombre es Pedro Omar desarrollador de iOS 👋
 
 ## 🔂 Redes Sociales
-- [![Twitter](https://th.bing.com/th/id/OIP._Nlqv4LX_KauLZI5Oe56lgAAAA?rs=1&pid=ImgDetMain.jpg)](https://www.x.com/pedroomar25) 
+- [Twitter](https://www.x.com/pedroomar25) 
 - [Instagran](https://www.instagram.com/pedroomar_98)
 
 ## 👤 Acerca de mí
