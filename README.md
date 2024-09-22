@@ -12,6 +12,6 @@
 
 ## 👨‍💻 Lenguajes
 - [Swift](https://wwww.swift.org)
-- [Kotlin](https://kotlinlang.org/)
+
 
 
