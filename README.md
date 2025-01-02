@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hola, mi nombre es Pedro Omar desarrollador de iOS 👋
+## 🔂 Redes Sociales
+<p align="leading">
+  <a href="http://twitter.com/pedroomar25">
+    <img src="https://img.shields.io/twitter/follow/pedroomar23?label=Twitter&logo=twitter&style=for-the-badge&color=1DA1F2" alt="Pedro Omar Twitter"/>
+  </a>
+  <a href="https://t.me/pedroomar23">
+    <img src="https://img.shields.io/badge/Telegram-CHANNEL-blue?label=Telegram&logo=Telegram&style=for-the-badge" />
+</a>
+  <a href="https://github.com/pedroomar23">
+     <img src="https://img.shields.io/badge/Github-blue?label=Github&logo=Github&style=for-the-badge" />
+  </a>
+  </a>
+</p>
 
-<!--
-**pedroomar23/pedroomar23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👤 Acerca de mí
+- Actualmente estoy aprendiendo Swift lenguaje de programción de Apple para desarrollo de iOS, iPadOS, MacOS, tvOS, WatchOS y recientemente VisionOS
+- Estoy buscando fortalecer mis habilidades como desarrollador mediante ejercicios, proyectos y ayudando a otros desarrolladores que lo necesiten
+- Además busco colaborar en proyectos donde pueda trabajar en equipo para seguir desarrollando mis habilidades y seguir creciendo como desarrollador
+- Estoy dispuesto a seguir aprendiendo cada día cosas nuevas
 
-Here are some ideas to get you started:
+## 👨‍💻 Lenguajes
+<div align="leading">
+  <a href="https://swift.org">
+ <img src="https://skillicons.dev/icons?i=swift,html,css,javascript" /><br> 
+ </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+<div align="center">
+<img width=390 src="https://streak-stats.demolab.com/?user=erickdevup&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=pedroomar23&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroomar23&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
+
