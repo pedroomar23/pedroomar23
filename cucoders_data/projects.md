@@ -1,6 +1,6 @@
 ## [Wifi Connect](https://apps.apple.com/us/app/wifi-connect/id6496852984)
 
-![Wifi Connect](https://enlace-de-la-imagen-del-proyecto-1.jpg)
+![Wifi Connect](src/assets/img/photo_2025-03-27 15.15.43.jpeg)
 
 Descripción: Wifi Connect es una app ayuda a los usuarios a conectarse a la wifi pública, nauta hogar y nauta plus, además los usuarios pueden guardar sus cuentas de forma segura.
 
