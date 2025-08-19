@@ -14,7 +14,7 @@
 </p>
 
 ## 👤 Acerca de mí
-- ✅ Actualmente estoy aprendiendo Swift lenguaje de programción de Apple para desarrollo de iOS, iPadOS, MacOS, tvOS, WatchOS y recientemente VisionOS.
+- ✅ Actualmente estoy trabajando con Swift lenguaje de programción de Apple para desarrollo de iOS, iPadOS, MacOS, tvOS, WatchOS y recientemente VisionOS.
 - ✅ Estoy buscando fortalecer mis habilidades como desarrollador mediante ejercicios, proyectos y ayudando a otros desarrolladores que lo necesiten.
 - ✅ Además busco colaborar en proyectos donde pueda trabajar en equipo para seguir desarrollando mis habilidades y seguir creciendo como desarrollador.
 - ✅ Estoy dispuesto a seguir aprendiendo cada día cosas nuevas.
