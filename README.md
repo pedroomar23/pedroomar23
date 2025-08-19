@@ -15,7 +15,7 @@
 
 ## 👤 Acerca de mí
 - [x] ✅ Actualmente estoy trabajando con Swift lenguaje de programción de Apple para desarrollo de iOS, iPadOS, MacOS, tvOS, WatchOS y recientemente VisionOS.
- ✅ Estoy buscando fortalecer mis habilidades como desarrollador mediante ejercicios, proyectos y ayudando a otros desarrolladores que lo necesiten.
+- [x] ✅ Estoy buscando fortalecer mis habilidades como desarrollador mediante ejercicios, proyectos y ayudando a otros desarrolladores que lo necesiten.
 - [x] ✅ Además busco colaborar en proyectos donde pueda trabajar en equipo para seguir desarrollando mis habilidades y seguir creciendo como desarrollador.
 - [x] ✅ Estoy dispuesto a seguir aprendiendo cada día cosas nuevas.
 - [x] 🌐 Puedes ver todo mi trabajo en mi [sitio web personal](https://pedroomar23.github.io)
