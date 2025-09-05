@@ -14,12 +14,12 @@
 </p>
 
 ## 👤 Acerca de mí
-✅ Actualmente estoy trabajando con Swift lenguaje de programción de Apple para desarrollo de iOS, iPadOS, MacOS, tvOS, WatchOS y recientemente VisionOS.
-✅ Estoy buscando fortalecer mis habilidades como desarrollador mediante ejercicios, proyectos y ayudando a otros desarrolladores que lo necesiten.
-✅ Además busco colaborar en proyectos donde pueda trabajar en equipo para seguir desarrollando mis habilidades y seguir creciendo como desarrollador.
-✅ Estoy dispuesto a seguir aprendiendo cada día cosas nuevas.
-🌐 Puedes ver todo mi trabajo en mi [sitio web personal](https://pedroomar23.github.io)
-📧 Puedes contactarme a través de pocl9812@gmail.com
+- ✅ Actualmente estoy trabajando con Swift lenguaje de programción de Apple para desarrollo de iOS, iPadOS, MacOS, tvOS, WatchOS y recientemente VisionOS.
+- ✅ Estoy buscando fortalecer mis habilidades como desarrollador mediante ejercicios, proyectos y ayudando a otros desarrolladores que lo necesiten.
+- ✅ Además busco colaborar en proyectos donde pueda trabajar en equipo para seguir desarrollando mis habilidades y seguir creciendo como desarrollador.
+- ✅ Estoy dispuesto a seguir aprendiendo cada día cosas nuevas.
+- 🌐 Puedes ver todo mi trabajo en mi [sitio web personal](https://pedroomar23.github.io)
+- 📧 Puedes contactarme a través de pocl9812@gmail.com
 
 ## 👨‍💻 Lenguajes
 <div align="leading">
