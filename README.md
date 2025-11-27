@@ -1,4 +1,5 @@
 # Hola, mi nombre es Pedro Omar desarrollador de iOS 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pedroomar23&label=Profile%20views&color=0e75b6&style=flat" alt="pedroomar23" /> </p>
 ## 🔂 Redes Sociales
 <p align="leading">
   <a href="http://twitter.com/pedroomar25">
