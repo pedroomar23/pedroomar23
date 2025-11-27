@@ -31,9 +31,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img width=390 src="https://streak-stats.demolab.com/?user=erickdevup&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=pedroomar23&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroomar23&show_icons=true&locale=en&layout=compact" alt="pedroomar23" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroomar23&show_icons=true&locale=en" alt="pedroomar23" /></p>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
 
