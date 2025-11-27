@@ -30,11 +30,10 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroomar23&show_icons=true&locale=en&layout=compact" alt="pedroomar23" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroomar23&show_icons=true&locale=en" alt="pedroomar23" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroomar23&" alt="pedroomar23" /></p>
-</div>
+
 
 
