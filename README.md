@@ -30,13 +30,6 @@
  </a>
 </div>
 
-## 👨‍💻 Frameworks
-<div align="leading">
-  <a href="https://swift.org">
- <img src="https://skillicons.dev/icons?i=swiftui" /><br> 
- </a>
-</div>
-
 ## 📊 GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroomar23&show_icons=true&locale=en&layout=compact" alt="pedroomar23" /></p>
