@@ -26,7 +26,7 @@
 ## 👨‍💻 Lenguajes
 <div align="leading">
   <a href="https://swift.org">
- <img src="https://skillicons.dev/icons?i=swift,html,css,javascript,python,git,github" /><br> 
+ <img src="https://skillicons.dev/icons?i=java,swift,html,css,javascript,python,git,github" /><br> 
  </a>
 </div>
 
